@@ -4,6 +4,7 @@ import { increment, decrement } from "./counterSlice";
 import Button from "@mui/material/Button";
 import Typography from "@mui/material/Typography";
 import Box from "@mui/material/Box";
+import { grey } from "@mui/material/colors";
 
 const CounterApp = () => {
   const dispatch = useDispatch();
@@ -19,6 +20,7 @@ const CounterApp = () => {
           variant="contained"
           color="primary"
           onClick={() => dispatch(increment())}
+          disabled={count === 10}
         >
           Increment
         </Button>
@@ -26,10 +28,18 @@ const CounterApp = () => {
           variant="contained"
           color="secondary"
           onClick={() => dispatch(decrement())}
+          disabled={count === 0}
         >
           Decrement
         </Button>
       </Box>
+      <Typography
+        variant=""
+        gutterBottom
+        style={{ marginTop: "30px", color: grey[500] }}
+      >
+        *Counter should be between 0 and 10
+      </Typography>
     </Box>
   );
 };

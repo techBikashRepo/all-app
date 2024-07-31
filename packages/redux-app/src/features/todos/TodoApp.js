@@ -49,6 +49,7 @@ const TodoApp = () => {
             color="primary"
             onClick={handleAddTodo}
             style={{ marginTop: "8px" }}
+            disabled={todos.length >= 2}
           >
             Add Todo
           </Button>

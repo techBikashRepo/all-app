@@ -1,0 +1,82 @@
+[
+  {
+    "question": "Which option below describes the cloud computing capability to automatically scale infrastructure resources according to changing demand, thereby eliminating the requirement for initial capacity planning?",
+    "options": [
+      "Trade fixed expense for variable expense",
+      "Benefit from massive economies of scale",
+      "Stop guessing capacity",
+      "Go global in minutes"
+    ],
+    "correct": ""
+  },
+  {
+    "question": "Which characteristic of cloud computing represents the ability to quickly deploy applications across multiple geographic locations to reduce latency and enhance the experience for users around the world?",
+    "options": [
+      "Trade fixed expense for variable expense",
+      "Benefit from massive economies of scale",
+      "Stop guessing capacity",
+      "Go global in minutes"
+    ],
+    "correct": ""
+  },
+  {
+    "question": "What feature of cloud computing lets you adjust quickly when your requirements change?",
+    "options": [
+      "Resilience",
+      "Performance ",
+      "Agility",
+      "Operational Excellence"
+    ],
+    "correct": ""
+  },
+  {
+    "question": "",
+    "options": ["", "", "", ""],
+    "correct": ""
+  },
+  {
+    "question": "",
+    "options": ["", "", "", ""],
+    "correct": ""
+  },
+  {
+    "question": "",
+    "options": ["", "", "", ""],
+    "correct": ""
+  },
+  {
+    "question": "",
+    "options": ["", "", "", ""],
+    "correct": ""
+  },
+  {
+    "question": "",
+    "options": ["", "", "", ""],
+    "correct": ""
+  },
+  {
+    "question": "",
+    "options": ["", "", "", ""],
+    "correct": ""
+  },
+  {
+    "question": "",
+    "options": ["", "", "", ""],
+    "correct": ""
+  },
+  {
+    "question": "",
+    "options": ["", "", "", ""],
+    "correct": ""
+  },
+  {
+    "question": "",
+    "options": ["", "", "", ""],
+    "correct": ""
+  },
+  {
+    "question": "",
+    "options": ["", "", "", ""],
+    "correct": ""
+  }
+]

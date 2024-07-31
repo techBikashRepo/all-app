@@ -1,9 +1,11 @@
-import "./App.css";
+import QuizHome from "./component/QuizHome";
 
 const App = () => {
   return (
-    <div>
-      <h1>Quiz App</h1>
+    <div className="App">
+      <header className="App-header">
+        <QuizHome />
+      </header>
     </div>
   );
 };
